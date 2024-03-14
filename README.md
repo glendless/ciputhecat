@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="dist/img/ciputhecat.png" width="100"/>
+  <img src="dist/img/ciputhecat.png"/>
 </div>
